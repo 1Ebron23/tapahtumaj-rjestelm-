@@ -1,0 +1,14 @@
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\obj\Debug\net6.0\tapahtumaJärjestelmä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\obj\Debug\net6.0\tapahtumaJärjestelmä.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\obj\Debug\net6.0\tapahtumaJärjestelmä.AssemblyInfo.cs
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\obj\Debug\net6.0\tapahtumaJärjestelmä.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\bin\Debug\net6.0\tapahtumaJärjestelmä.exe
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\bin\Debug\net6.0\tapahtumaJärjestelmä.deps.json
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\bin\Debug\net6.0\tapahtumaJärjestelmä.runtimeconfig.json
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\bin\Debug\net6.0\tapahtumaJärjestelmä.dll
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\bin\Debug\net6.0\tapahtumaJärjestelmä.pdb
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\obj\Debug\net6.0\tapahtumaJärjestelmä.dll
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\obj\Debug\net6.0\refint\tapahtumaJärjestelmä.dll
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\obj\Debug\net6.0\tapahtumaJärjestelmä.pdb
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\obj\Debug\net6.0\tapahtumaJärjestelmä.genruntimeconfig.cache
+C:\Users\OMISTAJA\source\repos\tapahtumaJärjestelmä\obj\Debug\net6.0\ref\tapahtumaJärjestelmä.dll
