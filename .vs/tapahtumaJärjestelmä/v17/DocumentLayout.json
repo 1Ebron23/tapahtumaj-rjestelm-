@@ -7,24 +7,24 @@
       "RelativeMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|c:\\users\\omistaja\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|solutionrelative:models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|c:\\users\\omistaja\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\interfaces\\ispeakermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|solutionrelative:interfaces\\ispeakermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|c:\\users\\omistaja\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\services\\attendancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|solutionrelative:services\\attendancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|c:\\users\\omistaja\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\services\\participantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|solutionrelative:services\\participantmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|c:\\users\\omistaja\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|solutionrelative:models\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|c:\\users\\omistaja\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\services\\speakermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|solutionrelative:services\\speakermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|c:\\users\\omistaja\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\services\\attendancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|solutionrelative:services\\attendancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|c:\\users\\omistaja\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\interfaces\\ispeakermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|solutionrelative:interfaces\\ispeakermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{664896AA-40AE-4D62-B3D3-0383967C7491}|tapahtumaJ\u00E4rjestelm\u00E4.csproj|c:\\users\\omistaja\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\interfaces\\iattendancemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,23 +52,34 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAFIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T20:09:25.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Participant.cs",
               "DocumentMoniker": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Models\\Participant.cs",
               "RelativeDocumentMoniker": "Models\\Participant.cs",
               "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Models\\Participant.cs",
               "RelativeToolTip": "Models\\Participant.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:17:21.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T20:17:21.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AttendanceManager.cs",
+              "DocumentMoniker": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Services\\AttendanceManager.cs",
+              "RelativeDocumentMoniker": "Services\\AttendanceManager.cs",
+              "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Services\\AttendanceManager.cs",
+              "RelativeToolTip": "Services\\AttendanceManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:58:07.915Z"
             },
             {
               "$type": "Document",
@@ -78,75 +89,57 @@
               "RelativeDocumentMoniker": "Services\\SpeakerManager.cs",
               "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Services\\SpeakerManager.cs",
               "RelativeToolTip": "Services\\SpeakerManager.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAADQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAE0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:23:03.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T20:23:03.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISpeakerManager.cs",
+              "DocumentMoniker": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Interfaces\\ISpeakerManager.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISpeakerManager.cs",
+              "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Interfaces\\ISpeakerManager.cs",
+              "RelativeToolTip": "Interfaces\\ISpeakerManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T20:24:14.043Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ISpeakerManager.cs",
-              "DocumentMoniker": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaJ\u00E4rjestelm\u00E4\\Interfaces\\ISpeakerManager.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ISpeakerManager.cs",
-              "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaJ\u00E4rjestelm\u00E4\\Interfaces\\ISpeakerManager.cs",
-              "RelativeToolTip": "Interfaces\\ISpeakerManager.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAoAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:24:14.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ParticipantManager.cs",
               "DocumentMoniker": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Services\\ParticipantManager.cs",
               "RelativeDocumentMoniker": "Services\\ParticipantManager.cs",
               "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Services\\ParticipantManager.cs",
               "RelativeToolTip": "Services\\ParticipantManager.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADsAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T16:15:19.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AttendanceManager.cs",
-              "DocumentMoniker": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Services\\AttendanceManager.cs",
-              "RelativeDocumentMoniker": "Services\\AttendanceManager.cs",
-              "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Services\\AttendanceManager.cs",
-              "RelativeToolTip": "Services\\AttendanceManager.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAACgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:58:07.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-15T16:15:19.162Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "IAttendanceManager.cs",
-              "DocumentMoniker": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaJ\u00E4rjestelm\u00E4\\Interfaces\\IAttendanceManager.cs",
+              "DocumentMoniker": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Interfaces\\IAttendanceManager.cs",
               "RelativeDocumentMoniker": "Interfaces\\IAttendanceManager.cs",
-              "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaJ\u00E4rjestelm\u00E4\\Interfaces\\IAttendanceManager.cs",
+              "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Interfaces\\IAttendanceManager.cs",
               "RelativeToolTip": "Interfaces\\IAttendanceManager.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAEwAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:55:18.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T20:55:18.49Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IParticipantManager.cs",
-              "DocumentMoniker": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaJ\u00E4rjestelm\u00E4\\Interfaces\\IParticipantManager.cs",
+              "DocumentMoniker": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Interfaces\\IParticipantManager.cs",
               "RelativeDocumentMoniker": "Interfaces\\IParticipantManager.cs",
-              "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaJ\u00E4rjestelm\u00E4\\Interfaces\\IParticipantManager.cs",
+              "ToolTip": "C:\\Users\\OMISTAJA\\source\\repos\\tapahtumaj\u00E4rjestelm\u00E4\\Interfaces\\IParticipantManager.cs",
               "RelativeToolTip": "Interfaces\\IParticipantManager.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAADgvwwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T20:23:43.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T20:23:43.141Z"
             }
           ]
         }
